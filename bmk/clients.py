@@ -1,10 +1,5 @@
-from business_operations import a, b, c
+from business_operations import get_title, get_url, get_desc
 
-a()
-b()
-c()
-
-# def create_record():
-
-
-# create_record()
+get_title()
+get_url()
+get_desc()
