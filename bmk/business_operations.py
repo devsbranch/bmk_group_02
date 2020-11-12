@@ -1,23 +1,11 @@
-# def add_record():
-def a():
+def get_title():
     title = input('enter title : ')
     return title
 
-
-# a()
-
-def b():
+def get_url():
     url = input('enter url : ')
     return url
 
-
-# b()
-
-def c():
+def get_desc():
     desc = input('enter description : ')
     return desc
-
-# c()
-
-
-# add_record()
